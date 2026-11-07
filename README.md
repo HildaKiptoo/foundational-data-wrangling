@@ -1,8 +1,5 @@
 # Foundational Data Wrangling & EDA in Python
 
-![Data Wrangling & Exploration](images/numpy-pandas.jpg)
-*(Note: Replace with your actual screenshot of your Jupyter Notebook or EDA plots!)*
-
 ## 📌 Executive Summary
 **The Problem:** Raw, real-world data is rarely ready for analysis. Before building predictive models or BI dashboards, data must be ingested, cleaned, structurally inspected, and manipulated to ensure accuracy and integrity. 
 
